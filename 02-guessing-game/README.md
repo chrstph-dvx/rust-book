@@ -1,0 +1,3 @@
+- Variables: immutable by default. `mut` for mutable variables
+- `cargo doc --open`: open documentation for all crates used
+- Variable shadowing allowed (even with different type)
